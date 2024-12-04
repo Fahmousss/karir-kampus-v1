@@ -18,7 +18,7 @@ export default function Screen() {
     <SafeAreaView style={{ flex: 1 }}>
       <View style={{ flex: 1 }}>
         <View className="rounded-b-[20px] h-[311px] px-10 py-16 overflow-hidden bg-[#3470A2] relative">
-          <View className="absolute bg-[#63ABE6] w-[500px] h-[500px] rounded-full -right-[265px] top-10"></View>
+          <View className="absolute bg-[#63ABE6] w-[500px] h-[500px] rounded-full -right-[264px] top-10"></View>
           <View className="absolute -right-16 -bottom-10">
             <Image
               source={require("assets/images/karir_kampus.png")}
